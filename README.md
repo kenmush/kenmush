@@ -1,4 +1,4 @@
-<img src="https://github.com/erikaheidi/erikaheidi/blob/master/erika_illustrated_avatar.png" align="right">
+<img src="https://avatars2.githubusercontent.com/u/54508479?s=460&u=7a079ada4955bd64a2475589fbed980ad4df2aa8&v=4" align="right">
 
 ### Hi there 👋
 I'm Kennedy Mutisya, a developer and content producer, passionate about open source and creating technical content for a variety of audiences.
