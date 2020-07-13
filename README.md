@@ -5,8 +5,8 @@ I'm Kennedy Mutisya, a developer and content producer, passionate about open sou
 
 I love PHP, and I've been working mostly on command-line tools lately. Here's some projects I'm excited about right now:
 
-- [Minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line centric PHP apps.
-- [Streamaru](https://github.com/erikaheidi/streamaru) - An experimental collection of tools for live streaming with OBS.
+- [Untapped Waters](https://untappedwaters.com) - Connecting to IOT to digital payments.
+- [ElitePro Security](https://eliteprosecurity.tech) - A digital workforce manager for the security industry
 
 <!--
 **kenmush/kenmush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
