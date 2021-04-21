@@ -28,9 +28,9 @@ const mutisya = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-  askMeAbout: ["web dev", "tech", "app dev", "criminology"],
-  architecture: ["Serverless Architecture", "PWA's", "Single page applications","microservices"],
-  futureGoal: "Contribute to open source more",
+ askMeAbout: ["web dev", "tech", "app dev", "criminology"],
+ architecture: ["Serverless Architecture", "PWA's", "Single page applications","microservices"],
+ futureGoal: "Contribute to open source more",
  challenge: "I am doing the #100DaysOfCode challenge focused on vue and laravel"
 }
 ```
