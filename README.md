@@ -5,7 +5,7 @@ com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at 
 </em></p>
 
 [![Twitter: mutisya](https://img.shields.io/twitter/follow/officialmutisya?style=social)](https://twitter.com/officialmutisya)
-[![Linkedin: mutisya](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenmutisya/)](https://www.linkedin.com/in/kenmutisya/)
+[![Linkedin: mutisya](https://img.shields.io/badge/-kenmutisya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenmutisya/)](https://www.linkedin.com/in/kenmutisya/)
 [![GitHub mutisya](https://img.shields.io/github/followers/kenmush?label=follow&style=social)](https://github.com/kenmush)
 
 
