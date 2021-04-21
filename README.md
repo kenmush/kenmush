@@ -14,14 +14,24 @@ com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at 
 ```javascript
 const mutisya = {
   pronouns: "he" | "his",
-  code: [Javascript, SASS, HTML, CSS, PHP, Laravel, MySQL],
-  tools: [Vue, VueStore, Node, PhpUnit, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
+  code: [Javascript, SASS, HTML, CSS, PHP, Laravel, MySQL, Vue, Tailwind],
+  technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "vuetify", "bootstrap","tailwind]
+        },
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            php: ["Laravel"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+  askMeAbout: ["web dev", "tech", "app dev", "criminology"],
+  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications","microservices", "event-driven", "design system pattern"],
+  futureGoal: "Contribute to open source more",
  challenge: "I am doing the #100DaysOfCode challenge focused on vue and laravel"
 }
 ```
