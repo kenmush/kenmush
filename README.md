@@ -1,7 +1,6 @@
 <h2> Hi, I'm Kennedy Mutisya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://untapped-global.com">Untapped Global</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://bikeit.co.ke">BikeIt</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 
 [![Twitter: mutisya](https://img.shields.io/twitter/follow/officialmutisya?style=social)](https://twitter.com/officialmutisya)
 [![Linkedin: mutisya](https://img.shields.io/badge/-kenmutisya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenmutisya/)](https://www.linkedin.com/in/kenmutisya/)
