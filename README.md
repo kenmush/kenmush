@@ -14,23 +14,21 @@ const mutisya = {
   pronouns: "he" | "his",
   code: [Javascript, SASS, HTML, CSS, PHP, Laravel, MySQL, Vue, Tailwind],
   technologies: {
-        mobileApp: ["Android App"],
         frontEnd: {
             js: ["Vue", "Nuxt"],
             css: ["materialize", "vuetify", "bootstrap","tailwind]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
+            js: ["Vue", "express"],
             php: ["Laravel"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"]
     },
  askMeAbout: ["web dev", "tech", "app dev", "criminology"],
  architecture: ["Serverless Architecture", "PWA's", "Single page applications","microservices"],
  futureGoal: "Contribute to open source more",
- challenge: "I am doing the #100DaysOfCode challenge focused on vue and laravel"
 }
 ```
 
